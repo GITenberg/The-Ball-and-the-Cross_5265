@@ -1,5 +1,8 @@
 _repo: The-Ball-and-the-Cross_5265
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -27,6 +30,8 @@ description: "The Ball and the Cross is a novel by G. K. Chesterton. The title r
   \ The real antagonist is the world outside, which desperately tries to prevent from\
   \ happening a duel over \"mere religion\" (a subject both duelists judge of utmost\
   \ importance).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5265#The-Ball-and-the-Cross
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
